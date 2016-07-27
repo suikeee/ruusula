@@ -1,0 +1,8 @@
+$ mkdir $HOME/work
+$ export GOPATH=$HOME/work
+$ cd gocode
+/gocode$ mkdir -p src/github.com/suikeee
+/gocode$ cd src/github.com/suikeee 
+/gocode/src/github.com/suikeee$ mkdir hello
+/gocode/src/github.com/suikeee$ cd hello
+/gocode/src/github.com/suikeee/hello$ vim hello.go
